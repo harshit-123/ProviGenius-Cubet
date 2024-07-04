@@ -22,3 +22,6 @@ variable "ami" {
   type = string
   default = "ami2320320332"
 }
+variable "test123" {
+  type = string
+}
