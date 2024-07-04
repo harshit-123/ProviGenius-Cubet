@@ -4,3 +4,6 @@ variable "test" {
     type = "string"
     deafult = "test"
 } 
+variable "access_key"{
+    type = "string"
+}
