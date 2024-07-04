@@ -25,3 +25,6 @@ variable "ami" {
 variable "test123" {
   type = string
 }
+variable "test123" {
+  type = string
+}
