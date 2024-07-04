@@ -9,6 +9,8 @@ variable "access_key"{
     default = "access_key"
 }
 variable "secret_key"{
+    type = "string"
+    default = "secret_key"
     type = string
     default = "secret_key"
 }
