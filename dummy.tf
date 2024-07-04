@@ -6,4 +6,5 @@ variable "test" {
 } 
 variable "access_key"{
     type = "string"
+    default = "access_key"
 }
