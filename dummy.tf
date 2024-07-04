@@ -1,7 +1,6 @@
 
-                    resource "null_resource" "dummy
-                    variable "test" {
-                        type = "string"
-                        deafult = "test"
-                    } 
-            
+resource "null_resource" "dummy
+variable "test" {
+    type = "string"
+    deafult = "test"
+} 
