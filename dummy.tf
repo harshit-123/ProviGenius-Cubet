@@ -1,14 +1,14 @@
 
 resource "null_resource" "dummy" {}
 variable "test" {
-    type = "string"
+    type = string
     default = "test"
 } 
 variable "access_key"{
-    type = "string"
+    type = string
     default = "access_key"
 }
 variable "secret_key"{
-    type = "string"
+    type = string
     default = "secret_key"
 }
