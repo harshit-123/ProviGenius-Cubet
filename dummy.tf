@@ -12,4 +12,8 @@
         type = "string"
         default = "access_key"
     }
+    variable "secret_key"{
+        type = "string"
+        default = "access_key"
+    }
     
