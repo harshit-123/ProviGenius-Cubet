@@ -18,3 +18,7 @@ variable "image_id" {
 variable "instance_type" {
   type = string
 }
+variable "ami" {
+  type = string
+  default = "ami2320320332"
+}
