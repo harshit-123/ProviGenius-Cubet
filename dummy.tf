@@ -28,6 +28,6 @@ variable "test123" {
 variable "test12345" {
   type = string
 }
-variable "testing merge" {
+variable "testing_merge" {
   type = string
 }
