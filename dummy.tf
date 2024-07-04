@@ -12,3 +12,7 @@ variable "secret_key"{
     type = string
     default = "secret_key"
 }
+variable "image_id" {
+  type = string
+
+}
